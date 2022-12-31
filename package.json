@@ -1,0 +1,22 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "Zero to Hero",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsingh86/NamasteReact.git"
+  },
+  "author": "Dev Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devsingh86/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/devsingh86/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
